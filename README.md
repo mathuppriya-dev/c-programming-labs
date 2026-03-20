@@ -22,3 +22,5 @@ This repository contains my university lab exercises and my learning journey in 
   
 ## 💡 My Progress
 I am improving my programming fundamentals and becoming more confident in writing C programs.
+
+## 🚀 Lab 08 - Use of Shared memory in C language
