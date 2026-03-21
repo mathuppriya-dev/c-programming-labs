@@ -159,7 +159,12 @@ Repeat for all activities by changing the filename.
 * Explore recursion in C
 
 ---
+## 👩‍💻 Author
 
+**Naguleswaran Mathuppriya**
+Undergraduate Student | Aspiring Software Developer
+
+---
 
 
 
