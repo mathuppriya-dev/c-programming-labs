@@ -1,5 +1,3 @@
----
-
 ## 🚀 Lab 02 – Selection Statements in C
 
 ### 📖 What I Learned
