@@ -56,3 +56,11 @@ I can now write programs that respond differently based on user input, which is 
 ## 🧠 Key Takeaway
 
 > Programming is not just writing code — it is about thinking logically and making correct decisions step by step.
+
+---
+## 👩‍💻 Author
+
+**Naguleswaran Mathuppriya**
+Undergraduate Student | Aspiring Software Developer
+
+---
