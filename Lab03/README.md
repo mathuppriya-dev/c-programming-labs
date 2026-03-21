@@ -162,7 +162,7 @@ Repeat for all activities by changing the filename.
 ## 👩‍💻 Author
 
 **Naguleswaran Mathuppriya**
-Undergraduate Student | Aspiring Software Developer
+Undergraduate Student | Aspiring Software Developer.
 
 ---
 
