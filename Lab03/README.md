@@ -151,6 +151,16 @@ Repeat for all activities by changing the filename.
 * Breaking problems into smaller parts makes coding easier
 
 ---
+## 🚀 Future Improvements
+
+* Add more pattern-based problems
+* Implement advanced array operations
+* Practice more function-based programs
+* Explore recursion in C
+
+---
+
+
 
 
 
