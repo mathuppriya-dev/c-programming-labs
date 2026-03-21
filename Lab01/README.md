@@ -47,4 +47,9 @@ This repository represents my continuous learning and hands-on practice.
 > Learning programming is not about memorizing code, but understanding how and why it works.
 
 ---
+## 👩‍💻 Author
 
+**Naguleswaran Mathuppriya**
+Undergraduate Student | Aspiring Software Developer
+
+---
