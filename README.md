@@ -119,4 +119,29 @@ I can now write programs that respond differently based on user input, which is 
 ---
 
 
-## 🚀 Lab 08 - Use of Shared memory in C language
+## 🚀 Lab 08 – Shared Memory in C (Inter-Process Communication)
+
+### 📖 What I Learned
+- Concept of shared memory in operating systems  
+- Communication between processes  
+- Using system calls like `shmget()`, `shmat()`  
+- Writing and reading data using shared memory  
+
+---
+
+### ⚠️ Challenges I Faced
+- Understanding how processes share memory  
+- Confusion with system calls and parameters  
+- Difficulty visualizing how data is shared  
+
+---
+
+### 🛠️ How I Solved Them
+- Studied the flow step-by-step  
+- Drew diagrams to understand memory sharing  
+- Tested small programs to observe behavior  
+
+---
+
+### 🧠 Key Takeaway
+> Shared memory allows multiple processes to communicate efficiently by accessing the same memory space.
