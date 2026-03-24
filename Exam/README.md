@@ -85,3 +85,10 @@ The project demonstrates key operating system concepts such as:
 
 ```bash
 gcc -o program_name file_name.c -pthread
+
+---
+## 👩‍💻 Author
+
+Mathuppriya Naguleswaran  
+Software Engineering Student  
+SLIIT – Northern UNI
